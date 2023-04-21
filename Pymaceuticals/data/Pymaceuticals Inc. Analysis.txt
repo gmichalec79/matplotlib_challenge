@@ -1,0 +1,12 @@
+Pymaceuticals Inc. Analysis
+
+1. The analysis shows that the mice treated with Capomulin and Ramicane resulted in smaller tumor volume, yielding favorable results
+   by comparison to the ones that were treated with Infubinol or Ceftamin. The correlation of weight and tumor volume amongst the mice 
+   treated with Capomulin very strong. The scatter plot illustrates how the average tumor volume increases relative to the mouse weight.  
+
+2. The pie charts indicate an almost equal male vs. female count. After removing the duplicates there was a total of 249 mice. Count 
+   by gender shows it to be 124 female and 125 male. However, the statistics shows only 2% difference. Sex might not be the significant 
+   variable to the study. 
+
+3  Reference to the bar chart will show 10 types different types of treatment in the study. The lowest number in the study is Propriva
+   and the largest, Capomulin. One might conlude that the study was a bit more focused on Capomulin treatments.   
