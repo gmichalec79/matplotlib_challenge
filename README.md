@@ -1,2 +1,4 @@
 # matplotlib_challenge
 Week 5 Homework Challenge
+
+This weeks homework challenged the concepts we discussed regarding statistics. The content of this specific analysis, I relied heavily on some of the examples we worked through in class, creating and plotting bar charts, pie charts, whisker plot and scatter plot with linear regression to cap off the exercise. It was a challenging assignment. The major source of the code I used came from examples and activities from Mr. Karunakaran back in week 4 through week 5. I did research guidance from Stack Overflow and there were several other links provided throughout lecture that helped me sort out errors along the way. Pandas.pydata.org, docs.python.org just to name a couple of examples. Youtube is also a useful source as I utilized several examples from there. 
